@@ -1,7 +1,2 @@
-# hello
-Just time pass
-vjabsdjbasd
-sdfdsanfasdg
-sdafdndfg
-andslnsfdag
-dfgdflgmdsfg
+Hello there!
+Have a nice day.
